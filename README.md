@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Deepak Singh and I am a Full Stack Developer.
+- 👋 Hi, I’m Deepak Singh, and I am a Full Stack Developer.
 - 👀 I’m interested in Web Development, Web Designing, and Web SEO.
 - 🌱 I’m currently learning Web Development and Designing.
 - 💞️ I’m looking to collaborate on ...
