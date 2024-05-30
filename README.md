@@ -23,9 +23,9 @@ Here's what I specialize in:
 
 ## Let's Connect! 🌐
 Feel free to reach me out if you have any questions or want get services as mentioned above.
-Email: webdeveloperdeepaksingh@gmail.com
-website: www.webdeveloperdeepak.com
 
+  1.  Email: webdeveloperdeepaksingh@gmail.com
+  2.  website: www.webdeveloperdeepak.com
 ______________________________________________________________________________________________________
 
 Happy learning! Happy coding! 🎉
