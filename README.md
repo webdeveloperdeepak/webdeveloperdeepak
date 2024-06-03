@@ -26,6 +26,8 @@ Feel free to reach me out if you have any questions or want get services as ment
 
   1.  Email: webdeveloperdeepaksingh@gmail.com
   2.  website: www.webdeveloperdeepak.com
+  3.  Instagram: https://www.instagram.com/webdeveloperdeepak
+  4.  Whatsapp group: https://chat.whatsapp.com/FLF5SC3XpZy86NwcVUJXfN
 ______________________________________________________________________________________________________
 
 Happy learning! Happy coding! 🎉
