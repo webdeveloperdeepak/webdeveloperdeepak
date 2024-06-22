@@ -15,6 +15,7 @@ Here's what I specialize in:
 ## Technologies I Love 💻
 - TypeScript
 - Next.js
+- Node.js
 - Redux Toolkit
 - NextAuth.js
 - Cloudinary
