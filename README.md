@@ -14,16 +14,17 @@ Here's what I specialized in:
 - **MERN Skills Training**         : Sharing my knowledge through workshops and tutorials.
 
 ## Technologies I Love 💻
-- TypeScript
-- Next.js
-- Node.js
-- Redux Toolkit
-- NextAuth.js
-- Cloudinary
-- Mongoose
-- JavaScript
+
+ - TypeScript
+ - Next.js
+ - React.js
+ - Node.js
+ - Redux Toolkit
+ - Mongoose
+ - JavaScript
 
 ## Let's Connect! 🌐
+
 Feel free to reach me out if you have any questions or want get services as mentioned above.
 
   1.  Email: webdeveloperdeepaksingh@gmail.com
