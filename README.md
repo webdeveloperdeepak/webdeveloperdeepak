@@ -3,14 +3,15 @@
  - I'm Deepak Singh, Full-Stack Web Developer based in Noida, Uttar Pradesh, India.
 ____________________________________________________________________________________________________
 
-Here's what I specialize in:
+Here's what I specialized in:
 
 ## Services 🚀
 
-- **Web Development**: Crafting beautiful and functional websites using modern technologies.
-- **Responsive Web Design**: Ensuring your site looks great on all devices, from desktops to mobiles.
-- **Web SEO**: Optimizing websites for search engines to improve visibility and reach.
-- **Web Development Skills Training**: Sharing my knowledge through workshops and tutorials.
+- **Custom Website Development**   : Crafting beautiful and functional websites using modern technologies.
+- **Responsive Website Design**    : Ensuring your site looks great on all devices, from desktops to mobiles.
+- **Website SEO Optimization**     : Optimizing websites for search engines to improve visibility and reach.
+- **Web Maintenance**              : Any addition, updation, deletion or change of Content, Videos, Images, URLs , PDF Files, Products.
+- **MERN Skills Training**         : Sharing my knowledge through workshops and tutorials.
 
 ## Technologies I Love 💻
 - TypeScript
