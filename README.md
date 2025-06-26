@@ -22,15 +22,17 @@ Here's what I specialized in:
  - Redux Toolkit
  - Mongoose
  - JavaScript
+ - GitHub
 
 ## Let's Connect! 🌐
 
 Feel free to reach me out if you have any questions or want get services as mentioned above.
 
-  1.  Email: webdeveloperdeepaksingh@gmail.com
+  1.  Email: info@webdeveloperdeepak.com
   2.  website: www.webdeveloperdeepak.com
   3.  Instagram: https://www.instagram.com/webdeveloperdeepak
-  4.  Whatsapp group: https://chat.whatsapp.com/FBSkl2qsc40Gh59AVNVYo8
+  4.  Facebook : https://www.facebook.com/webdeveloperdeepak
+  5.  Linkedin : https://www.linkedin.com/in/webdeveloperdeepak
 ______________________________________________________________________________________________________
 
 Happy learning! Happy coding! 🎉
