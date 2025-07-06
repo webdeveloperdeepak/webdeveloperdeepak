@@ -29,10 +29,11 @@ Here's what I specialized in:
 Feel free to reach me out if you have any questions or want get services as mentioned above.
 
   1.  Email: info@webdeveloperdeepak.com
-  2.  website: www.webdeveloperdeepak.com
-  3.  Instagram: https://www.instagram.com/webdeveloperdeepak
+  2.  website:   https://www.webdeveloperdeepak.com
+  3.  Instagram: https://www.instagram.com/web_developer_deepak
   4.  Facebook : https://www.facebook.com/webdeveloperdeepak
   5.  Linkedin : https://www.linkedin.com/in/webdeveloperdeepak
+  6.  Youtube:   https://www.youtube.com/@deepakwebdeveloper
 ______________________________________________________________________________________________________
 
 Happy learning! Happy coding! 🎉
